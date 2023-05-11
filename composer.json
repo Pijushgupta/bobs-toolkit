@@ -1,0 +1,19 @@
+{
+	"name": "pijush-gupta/aavoya-tool-kit",
+	"description": "Mandatory functionalities for Wordpress",
+	"type": "project",
+	"license": "GPLV2",
+	"autoload": {
+		"psr-4": {
+			"bobsToolkit\\": "app/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Pijush Gupta",
+			"email": "Pijush@live.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {}
+}
